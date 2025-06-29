@@ -19,7 +19,7 @@ Feature importance insights for interpretability
 
 Suggestions for future improvements and error analysis
 
-🛠️ Tech Stack
+ Tech Stack
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
