@@ -4,11 +4,11 @@ AI chatbot that predicts diseases from user symptoms using ML. Includes EDA, mul
 AI-Powered Symptom Checker Chatbot
 A machine learning-based chatbot that predicts possible diseases based on user-reported symptoms. It aims to support early diagnosis and promote preventive healthcare.
 
-🚑 Overview
+ Overview
 This project uses supervised machine learning models trained on a comprehensive medical symptoms dataset to classify diseases and suggest appropriate precautions.
 The chatbot provides an accessible first step for users to self-assess symptoms and consult medical professionals when needed.
 
-📊 Key Features
+ Key Features
 Symptom-based multi-class disease prediction
 
 Exploratory Data Analysis (EDA) with visualizations
